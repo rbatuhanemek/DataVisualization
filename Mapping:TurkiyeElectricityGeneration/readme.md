@@ -1,4 +1,4 @@
-# Mapping Türkiye's Electricity
+# Mapping Turkiye's Electricity
 
 ## Description
 This repository contains the Jupyter Notebook mapping.ipynb. The notebook is dedicated to visualizing Turkey's 20-year transition in electricity generation methods. By diving into detailed analyses and visualizations, it offers insights into the shifts and trends in Turkey's energy sector over the past two decades.
